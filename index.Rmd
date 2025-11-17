@@ -46,7 +46,7 @@ RIV points, so-called **"Hard methodology"**.
 <img src="obrazky/002.png" style="width:95%;" alt="2021 MUNI ARTS budget">
 
 ---
-##History of research assesment on Facoulty of Arts, MU
+##History of research assesment on Faculty of Arts, MU
 - **2021** is the year **the Central Library took over** the publication data preparation for the Bursar.
 - It was one of the final stages of a long process of the library taking over the **responsibility for bibliometrics and proofreading of metadata records for national evidence (RIV)**.
 - We soon realized we were putting **much effort into preparing and processing data**. The result is an overview table for the entire faculty and separate datasets with four sheets for department heads. **And not using the whole final dataset**.
